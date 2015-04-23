@@ -1,0 +1,14 @@
+markus,7
+pietro,110
+john,100
+charlie,30
+alex,45
+david,36
+gabry,83
+null,22
+jez,43
+null,4
+petru botnar,86
+petru b,82
+petru botnar,100
+petru botnar,131
